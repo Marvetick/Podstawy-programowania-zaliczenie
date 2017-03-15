@@ -1,0 +1,6 @@
+d:\users\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.exe.config
+d:\users\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csprojResolveAssemblyReference.cache
+d:\users\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.exe
+d:\users\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.pdb
+d:\users\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.exe
+d:\users\documents\visual studio 2013\Projects\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.pdb
